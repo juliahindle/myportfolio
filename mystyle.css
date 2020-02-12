@@ -60,6 +60,7 @@ li c
 }
 
 .dropdown {
+  display: inline-block;
   overflow: hidden;
 }
 
