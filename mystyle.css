@@ -18,7 +18,7 @@ body
 
 .active 
 {
-  color: #E15B74;
+  color: #E15B74 !important;
 }
 
 ul 
@@ -28,6 +28,7 @@ ul
   padding: 0;
   overflow: hidden;
   background-color: #FFE3DE;
+  color: black;
 }
 
 li 
@@ -99,7 +100,7 @@ li b
 
 li a:hover, .dropdown:hover .dropbtn
 {
-  color: #F7A79D;
+  color: #F7A79D !important;
 }
 
 .dropdown-content a:hover 
@@ -111,6 +112,12 @@ li a:hover, .dropdown:hover .dropbtn
 .dropdown:hover .dropdown-content 
 {
   display: block;
+}
+
+.active-drop
+{
+  background-color: #FFE3DE !important;
+  color: #E15B74 !important;
 }
 
 .row 
