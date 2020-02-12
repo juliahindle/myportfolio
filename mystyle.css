@@ -59,7 +59,7 @@ li c
   font-weight: normal;
 }
 
-.dropdown 
+/*.dropdown 
 {
   display: inline-block;
   color: black;
@@ -67,9 +67,9 @@ li c
   padding: 14px 16px;
   text-decoration: none;
   font-weight: normal;
-}
+}*/
 
-.dropdown .dropbtn 
+.dropbtn 
 { 
   border: none;
   outline: none;
