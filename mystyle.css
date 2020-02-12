@@ -58,7 +58,7 @@ li c
   float: right;
   font-weight: normal;
 }
-
+/*
 .dropdown 
 {
   display: inline-block;
@@ -67,9 +67,9 @@ li c
   padding: 14px 16px;
   text-decoration: none;
   font-weight: normal;
-}
+}*/
 
-.dropdown .dropbtn 
+.dropbtn 
 { 
   border: none;
   outline: none;
